@@ -1,0 +1,9 @@
+{
+  "name": "linear-gradient-svg",
+  "devDependencies": {
+    "rainbow-linear-gradient": "^1.0.0"
+  },
+  "dependencies": {
+    "virtual-hyperscript-svg": "^2.0.0"
+  }
+}
