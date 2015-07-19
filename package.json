@@ -1,8 +1,25 @@
 {
   "name": "linear-gradient-svg",
-  "devDependencies": {
-    "rainbow-linear-gradient": "^1.0.0"
+  "version": "1.0.0",
+  "description": "transform a 1-dimensional ndpixel gradient to a virtual svg linear gradient",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/linear-gradient-svg.git"
+  },
+  "keywords": [
+    "svg",
+    "linear gradient"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/linear-gradient-svg/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/linear-gradient-svg#readme",
   "dependencies": {
     "virtual-hyperscript-svg": "^2.0.0"
   }
